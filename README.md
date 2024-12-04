@@ -1,4 +1,4 @@
-# WebScrapeX-Automated-Google-Search-Result-Extractor-
+# WebScrapeX: Automated Google Search Result Extractor
 
 This project is a Python-based web scraper that extracts and displays search result links from Google for a specified keyword. The script uses the `requests` library to make HTTP requests and `BeautifulSoup` from the `bs4` library to parse the HTML content. It retrieves a customizable number of search results and outputs them in a simple enumerated format.
 
